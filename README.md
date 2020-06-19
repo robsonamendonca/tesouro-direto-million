@@ -1,6 +1,6 @@
 # usuarios-million
 ---
-## Estrutura de dados
+## Estrutura de dados -> PRODUTO
 ```
 Tesouro:{
   nome: "",
